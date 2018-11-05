@@ -1,3 +1,3 @@
 # Homework
 
-Hej! Nu ska vi testa! 
+Hej! Nu ska vi testa! Varför funkar det ej?
