@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#Past Experience
+I have used R/Rstudio/Rmarkdown a lot in the courses given in Stockholm university. It is the programs that I know the best. I am completely new to Git/Github. I have only briefly touched on ggplot2 and dplyr but not used it properly. 
+
+
